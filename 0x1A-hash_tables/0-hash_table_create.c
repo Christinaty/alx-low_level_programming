@@ -22,8 +22,3 @@ hash_table_t *hash_table_create(unsigned long int size)
 		return (NULL);
 	return (newtable);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Pri
